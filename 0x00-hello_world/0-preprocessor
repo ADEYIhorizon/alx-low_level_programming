@@ -1,2 +1,2 @@
-#!/bin/bash* main - Entry point
+#!/bin/bash
 gcc -E $CFILE -o ./c
