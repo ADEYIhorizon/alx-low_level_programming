@@ -6,6 +6,8 @@
 int main(void)
 /* 
  * main 
+ *
+ * Description
  * print if postive, negative or zero
  */
 {
