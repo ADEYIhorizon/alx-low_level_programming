@@ -4,11 +4,10 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 int main(void)
-/* 
- * main 
+/**
+ * main - Entry point
  *
- * Description
- * print if postive, negative or zero
+ * Return: Always 0 (Success)
  */
 {
 	int n;
