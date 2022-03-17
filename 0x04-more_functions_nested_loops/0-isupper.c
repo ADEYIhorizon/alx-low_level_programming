@@ -2,10 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_alphabet - prints all aphabets in lowercase
- *
- * Description: They are sorted by default
- * return (0)
+ * _isupper - Check if paramter c represents an uppercase letter.
+ * @c: Int representing a character
+ * Return: Always 0.
  */
 
 int _isupper(int c)
