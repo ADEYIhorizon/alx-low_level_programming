@@ -1,11 +1,9 @@
 #include "main.h"
 
 /**
- * puts2 - print characte
- * @str: input string
+ * puts2 - prints one char out of 2
+ * @str: type
  *
- * Description: prints character of a string, starting first character
- * Return: Always (0)
  */
 
 void puts2(char *str)
