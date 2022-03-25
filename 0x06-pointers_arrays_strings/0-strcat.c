@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strcat - Concatenate of a string
+ * _strcat - Function Concatenate of a string
  * @dest: param pointer to a char
  * @src: param pointer to a char
  * Return: return value of dest
