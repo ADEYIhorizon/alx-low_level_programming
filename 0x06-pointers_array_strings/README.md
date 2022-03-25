@@ -1,0 +1,1 @@
+Repositry of the Pointers, string and array
