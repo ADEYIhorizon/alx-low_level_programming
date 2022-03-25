@@ -3,11 +3,11 @@
 /**
  * _strcat - Function Concatenate of a string
  *
- * @dest: param pointer to a char
+ * @dest: destination string; src string is appended to it
  *
- * @src: param pointer to a char
+ * @src: source string; gets appended to dest string
  *
- * Return: return value of dest
+ * Return: pointer to dest
  */
 
 char *_strcat(char *dest, char *src)
@@ -25,7 +25,7 @@ char *_strcat(char *dest, char *src)
 
 	while (src[j] != '\0')
 	{
-        	dest[i] = src[j];
+        	*dest[i] = src[j];
         	j++;
         	i++;
     	}
